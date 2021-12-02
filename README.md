@@ -2,11 +2,10 @@
 
 <h3>👨‍💻 &nbsp;About Me</h3>
 
-[My Portfolio](https://www.imlkmp.com/).
-
-<br/>
+[My Portfolio](https://www.imlkmp.com/)
 
 <h3>🥞 &nbsp;Tech Stack</h3>
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=orange)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -14,8 +13,6 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![GraphQL](https://img.shields.io/badge/-Graph%20QL-333333?style=flat&logo=graphql&logoColor=magenta)
-<br/>
-
 
 <h3>👀 &nbsp;GitHub Stats</h3>
 
