@@ -16,8 +16,8 @@
 
 <h3>👀 &nbsp;GitHub Stats</h3>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lekhacminhphuong&show_icons=true&theme=dracula" alt="lekhacminhphuong_GitHubStats" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhacminhphuong&layout=compact&theme=dracula" alt="lekhacminhphuong_TopLangs" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=lekhacminhphuong&show_icons=true" alt="lekhacminhphuong_GitHubStats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhacminhphuong&layout=compact" alt="lekhacminhphuong_TopLangs" />
 
 <br/>
 
